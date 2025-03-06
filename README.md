@@ -2,6 +2,11 @@
 
 ## Overview
 The **Course Data Extractor** is a Streamlit-based application that extracts structured course information from educational images (brochures, flyers, posters). It utilizes Google's Gemini AI to process image text with high accuracy.
+![image](https://github.com/user-attachments/assets/07fe9bd3-85c6-49dc-86dd-b17bdde7ca32)
+![image](https://github.com/user-attachments/assets/b4545537-24f2-4991-9382-a6f0983fc353)
+
+![image](https://github.com/user-attachments/assets/b5a0bf51-f860-4a18-8b01-e928f8042856)
+
 
 ## Features
 - Extracts key course details such as:
@@ -13,8 +18,12 @@ The **Course Data Extractor** is a Streamlit-based application that extracts str
   - Fee Type
   - Course Outline / Summary
 - Supports image uploads (`png`, `jpg`, `jpeg`)
+  ![image](https://github.com/user-attachments/assets/c0cd3026-b0c0-4c47-b1f0-93281aac2b75)
+
 - Option to use test data from a predefined folder
 - Paginated course extraction with customizable page sizes
+  ![image](https://github.com/user-attachments/assets/6ad01431-1edf-44b3-9785-4c1225005937)
+
 - Download extracted course data as a CSV file
 
 ## Installation
